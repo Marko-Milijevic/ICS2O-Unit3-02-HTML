@@ -1,0 +1,33 @@
+.first {
+  width: 400px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  color: red;
+}
+
+.second {
+  width: 400px;
+  padding: 10px;
+  border: 5px solid red;
+  margin: 0;
+  border-style: dotted;
+}
+
+#t01 tr {
+  background-color: #eee;
+  padding: 10px;
+}
+
+#t01 th {
+  color: white;
+  background-color: black;
+  padding: 10px;
+}
+
+#t01 table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 10px;
+ }
+ 
