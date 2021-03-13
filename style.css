@@ -25,9 +25,14 @@
   padding: 10px;
 }
 
-#t01 table, th, td {
+#t01 td {
+  padding: 10px;
+  border: 1px solid black;
+}
+
+#t01 table {
   border: 1px solid black;
   border-collapse: collapse;
   padding: 10px;
- }
+}
  
